@@ -28,19 +28,19 @@ I’m passionate about building real, scalable products — from C-2-C marketpla
 
 ### 🔌 PlugPoint – C-2-C Electronics Marketplace  
 Full-stack marketplace with authentication, product management, responsive UI, and admin tools.  
-👉 *[Add GitHub link here]*
+
 
 ### 🎵 SoundArk – Music Distribution Platform (In Development)  
 React + Node.js + PostgreSQL platform for artists, dashboards, and distribution tools.  
-👉 *[Add GitHub link here]*
+
 
 ### 🚗 Vehicle Trading Platform (AutoTrader-Style)  
 Marketplace for vehicle listings with filtering and admin verification.  
-👉 *[Add GitHub link here]*
+
 
 ### 📦 Reliable Carriers – Logistics Tracking System (Client Project)  
 Real client project for package tracking and admin dashboards.  
-👉 *[Add GitHub link here]*
+
 
 ---
 
